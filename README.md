@@ -28,7 +28,7 @@ By accessing and using the NFON PBX-Configuration API, you agree to the [terms o
 
 API endpoints may change: 
 - Please subscribe to `API Breaking Changes` on the [NFON Status page](https://status.nfon.com) for updates.
-- Please refer to the [latest API documentation](#).
+- Please refer to the [latest API documentation](https://api.nfon.net/configuration/).
 
 ---
 

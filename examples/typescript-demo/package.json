@@ -1,0 +1,19 @@
+{
+  "name": "oauth-api-demo-typescript",
+  "version": "1.0.0",
+  "description": "TypeScript demo for calling NFON configuration API using OAuth 2.0 Client Credentials flow",
+  "main": "dist/OAuthClientCredentialsApiCaller.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node src/OAuthClientCredentialsApiCaller.ts",
+    "run:compiled": "node dist/OAuthClientCredentialsApiCaller.js"
+  },
+  "keywords": ["oauth", "api", "typescript", "nfon"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}

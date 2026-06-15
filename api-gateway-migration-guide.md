@@ -136,7 +136,7 @@ Use the following prompt with an AI assistant (e.g. ChatGPT, Copilot, Claude) to
 > 5. All path segments after the base URL remain unchanged — do NOT rename any path segments
 > 6. Add an OAuth token retrieval step before making API calls
 >
-> Working implementations can be found at https://git.nfon.net/projects/CA/repos/config-api-demo.
+> Working implementations can be found in the [examples](./examples/) folder.
 >
 > Here is my current code:
 > ```

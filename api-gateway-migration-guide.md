@@ -32,12 +32,12 @@ When using the browser, you can authenticate via the [NFON Identity Provider](ht
 
 For working examples of the OAuth integration flow, see the [NFON Configuration API OAuth demo repository](README.md#examples):
 
-- [C#](./examples/go-demo/csharp-demo)
-- [Go](./examples/go-demo/go-demo)
+- [C#](./examples/csharp-demo)
+- [Go](./examples/go-demo)
 
-- [Java](./examples/go-demo/java-demo)
-- [Python](./examples/go-demo/python-demo)
-- [TypeScript](./examples/go-demo/typescript-demo) 
+- [Java](./examples/java-demo)
+- [Python](./examples/python-demo)
+- [TypeScript](./examples/typescript-demo) 
 
 > **Note:** Reach out to integration@nfon.com to obtain OAuth client credentials for the PBX Configuration API.
 
